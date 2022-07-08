@@ -1,6 +1,6 @@
-<!-- [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]() -->
+[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
 
-<h1 align="center">Hi 👋, I'm Valerii Shevchenko <img src=https://user-images.githubusercontent.com/88867709/178059226-13f81b87-be46-4246-89b9-b0f6d364a78b.png width="80"> </h1>
+<h1 align="center">Hi 👋, I'm Valerii Shevchenko</h1>
 
 
 <!-- ### Hi there 👋 -->
