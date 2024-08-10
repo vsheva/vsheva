@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate in web-development
 - 📫 How to reach me shev1181@gmail.com
 
-  ![Codewars](https://github.r2v.ch/codewars?user=vishev&top_languages=true)
+![Codewars](https://github.r2v.ch/codewars?user=vishev&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
