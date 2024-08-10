@@ -1,5 +1,5 @@
 - 👋 Hello I’m Valerian
-- 👀 Interested in Full-stack development
+- 👀 Interested in Full-stack dev
 - 🌱 Working with JavaScript, React, Angular, Node, Next, HTML, CSS
 - 💞️ Looking to collaborate in web-development
 - 📫 e-mail for collaboration: shev1181@gmail.com
