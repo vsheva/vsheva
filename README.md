@@ -4,7 +4,8 @@
 - 🚀 Looking to collaborate? Email me! shev1181@gmail.com
   or text me on Telegram https://t.me/valsheva
 
-  https://github-readme-codewars-stats.herokuapp.com/api/?username=vishev&badge&colormode=dark_mode
+![Codewars Badge](https://www.codewars.com/users/vishev/badges/large)
+
 
 
 
