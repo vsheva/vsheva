@@ -6,7 +6,7 @@
 
   <p align="center" >
     <a href="LINK TO: WHEN CLICKED">
-      <img src=["https://github.r2v.ch/codewars?user=USERNAME](https://github.r2v.ch/codewars?user=vishev&top_languages=true)" />
+      <img src=![Codewars](https://github.r2v.ch/codewars?user=vishev&top_languages=true) />
     </a>
 </p>
 
