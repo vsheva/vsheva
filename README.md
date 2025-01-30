@@ -1,4 +1,4 @@
-- 👋 Hello I’m Valerian
+- 👋 Hello I’m Valery
 - 👀 Interested in Full-stack
 - 💡 Develop Apps using JavaScript, React, Angular, Node, Next
 - 🚀 Looking to collaborate? Email me shev1181@gmail.com
